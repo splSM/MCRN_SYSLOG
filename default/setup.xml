@@ -1,0 +1,20 @@
+<setup>
+ <block title="MCRN Corvette System Backlog Configuration" endpoint="configs/conf-mcrn" entity="backlog">
+  <input field="reload_backlog">
+   <label>Load Backlog Data</label>
+   <type>bool</type>
+  </input>
+  <text>You MUST check this box when first installing, so the weekly and monthly visualizations will function properly.</text>
+  <text>It is set to false initially to prevent the loader from running before the restart which the app requires upon install.</text>
+  <text>&#160;</text>
+  <text>This will be set to false after the backlog is first loaded, so you don't get flooded with events.</text>
+  <text>Should you wish to reload the backlog data at some point, come back here and check the box again.</text>
+  <text>&#160;</text>
+  <text>&#160;</text>
+  <input field="mgmt_port">
+   <label>Management Port</label>
+   <type>text</type>
+  </input>
+  <text>The management port of your Splunk instance; used to refresh this configuration after the initial load.</text>
+ </block>
+</setup>

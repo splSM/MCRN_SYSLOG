@@ -1,0 +1,4 @@
+<nav>
+  <view name="mcrn_syslog_display_console" default='true' />
+  <a href="/manager/mcrn_syslog/apps/local/mcrn_syslog/setup?action=edit">BACKLOG CONFIGURATION</a>
+</nav>
