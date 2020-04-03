@@ -1,3 +1,5 @@
+![MCRN Syslog Display Console](https://ndler.dev/mcrn/mcrn_syslog_display_console.png)
+
 FROM:
 MARTIAN CONGRESSIONAL REPUBLIC NAVY (MCRN),
 SYSTEM & TECHNOLOGY DEVELOPMENT COMMAND (SYSTECHDEVCOM),
@@ -26,7 +28,7 @@ MCRN SYSLOG DISPLAY CONSOLE Project
 cc:
 Commander, DISCONDIV, SYSTECHDEVCOM, MCRN
 
-# You MUST have the Splunk Enterprise Dashboards Beta app installed!
+# Splunk Enterprise Dashboards Beta app is mandatory!
 
 # NOTES
 - This app consists primarily of a single huge dashboard running 75 real-time searches and two event generators in Python which produce data for the dashboard to visualize.
