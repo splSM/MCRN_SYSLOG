@@ -1,30 +1,30 @@
-# FROM:
-- MARTIAN CONGRESSIONAL REPUBLIC NAVY (MCRN)
-- SYSTEM & TECHNOLOGY DEVELOPMENT COMMAND (SYSTECHDEVCOM)
-- DISPLAY & CONTROL DIVISION (DISCONDIV)
+FROM:
+MARTIAN CONGRESSIONAL REPUBLIC NAVY (MCRN)
+SYSTEM & TECHNOLOGY DEVELOPMENT COMMAND (SYSTECHDEVCOM)
+DISPLAY & CONTROL DIVISION (DISCONDIV)
 
-# TO:
-- Commander, SYSTECHDEVCOM, MCRN
+TO:
+Commander, SYSTECHDEVCOM, MCRN
 
-# MEMORANDUM OF SYSTEM VERSION RELEASE
+MEMORANDUM OF SYSTEM VERSION RELEASE
 
-# SUBJ: MCRN SYSLOG DISPLAY CONSOLE; CORVETTE IMPLEMENTATION v1.1.1
+SUBJ: MCRN SYSLOG DISPLAY CONSOLE; CORVETTE IMPLEMENTATION v1.1.1
 
-- Sir/Madam,
+Sir/Madam,
 
-- Attached please find details of the most recent version of the MCRN SYSLOG DISPLAY CONSOLE for CORVETTE-class vessels.
+Attached please find details of the most recent version of the MCRN SYSLOG DISPLAY CONSOLE for CORVETTE-class vessels.
 
-- As per SYSTECHDEVCOM guidance, DISCONDIV has leveraged the "new and improved" dashboarding functionality in Splunk v8 to create this version of the MCRN SYSLOG DISPLAY CONSOLE.
+As per SYSTECHDEVCOM guidance, DISCONDIV has leveraged the "new and improved" dashboarding functionality in Splunk v8 to create this version of the MCRN SYSLOG DISPLAY CONSOLE.
 
-- The DISPLAY CONSOLE in this version runs seventy-five (75) real-time searches and visualizes live data from multiple shipboard systems. An Event Generator is included so that operations personnel may view historical data and current system events as they are generated.
+The DISPLAY CONSOLE in this version runs seventy-five (75) real-time searches and visualizes live data from multiple shipboard systems. An Event Generator is included so that operations personnel may view historical data and current system events as they are generated.
 
-- This system is ready for immediate release and implementation into the systems of vessels which correspond to the class for which this system was developed. DISCONDIV stands ready to assist with deployment and user training, as per SYSTECHDEVCOM policy.
+This system is ready for immediate release and implementation into the systems of vessels which correspond to the class for which this system was developed. DISCONDIV stands ready to assist with deployment and user training, as per SYSTECHDEVCOM policy.
 
-- Development Engineer
-- MCRN SYSLOG DISPLAY CONSOLE Project
+Development Engineer
+MCRN SYSLOG DISPLAY CONSOLE Project
 
-- cc:
-- Commander, DISCONDIV, SYSTECHDEVCOM, MCRN
+cc:
+Commander, DISCONDIV, SYSTECHDEVCOM, MCRN
 
 # You MUST have the Splunk Enterprise Dashboards Beta app installed!
 
